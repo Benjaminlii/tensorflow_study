@@ -12,21 +12,13 @@
 """
 import tensorflow as tf
 
-x = tf.constant([[0.53693543, 0.05866297]])
-w1 = tf.constant([ [-0.11337509, 0.16022703, 0.09648883, 0.16816367, -0.25676027, 0.23957446],
-                   [-0.25880048, 0.3657634,  0.2202563,  0.3838952, -0.5861608,  0.5469052 ]])
-w2 = tf.constant([ [-0.20815966],
-                   [ 0.29419935],
-                   [ 0.17715739],
-                   [ 0.3087823 ],
-                   [-0.47144282],
-                   [ 0.43989706]])
-a = tf.matmul(x, w1)
-y_ = tf.matmul(a, w2)
-y = int(0.53693543+0.05866297<1)
+w1 = tf.constant([])
+w2 = tf.constant([])
+a = tf.matmul(w1, w2)
+
 
 # 定义出tf中默认的会话Session，并启动默认的图
 with tf.Session() as sess:
     # 调用Session的run方法开始计算
-    result = sess.run(y_)
-    print(result, "\n", y)
+    result = sess.run(a)
+    print(result)
