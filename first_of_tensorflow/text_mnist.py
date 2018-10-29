@@ -21,9 +21,9 @@ Weight = tf.Variable(tf.ones([784, 10]))
 biases = tf.Variable(tf.zeros([10]))
 answer = tf.nn.softmax(tf.matmul(x, Weight) + biases)
 
-# 二次代价函数
+# 均方误差损失函数，交叉熵损失函数和梯度下降法
+# 均方误差通常用于回归问题，交叉熵用于分类问题
 # loss = tf.reduce_mean(tf.square(answer - y))
-# 交叉熵代价函数
 loss = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(labels=y,logits=answer))
 train_step = tf.train.GradientDescentOptimizer(0.5).minimize(loss)
 
