@@ -30,7 +30,8 @@ L1 = tf.nn.tanh(Wx_plus_b_L1)
 Weight_L2 = tf.Variable(tf.random_normal([10, 1]))
 biases_L2 = tf.Variable(np.zeros([1, 1]).astype(np.float32))
 Wx_plus_b_L2 = tf.matmul(L1, Weight_L2) + biases_L2
-answer = tf.nn.relu(Wx_plus_b_L2)
+# 经试验，tf.nn.tanh()激活函数效果最好
+answer = tf.nn.tanh(Wx_plus_b_L2)
 
 # 代价函数和梯度下降法训练
 loss = tf.reduce_mean(tf.square(y - answer))
@@ -44,7 +45,13 @@ with tf.Session() as sess:
         sess.run(train_step, feed_dict={x: x_data, y: y_data})
         if i % 1000 == 0:
             print("After %4d steps, loss is %1.10f" % (i, sess.run(loss, feed_dict={x: x_data, y: y_data})))
+    """
+        可视化结果
+        figure()：创建一个用来显示图形输出的一个窗口对象
+        scatter(X,Y)：X和Y是数据向量，以X中数据为横坐标，以Y中数据位纵坐标描绘散点图，点的形状默认使用圈。
+        plot():画线， “r-”表示红色实线， lw = 5 表示线的宽度为5像素
+    """
     plt.figure()
     plt.scatter(x_data, y_data)
-    plt.plot(x_data, sess.run(answer, feed_dict={x: x_data, y: y_data}), "r-", lw=5)
+    plt.plot(x_data, sess.run(answer, feed_dict={x: x_data}), "r-", lw=5)
     plt.show()
