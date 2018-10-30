@@ -25,7 +25,7 @@ answer = tf.nn.softmax(tf.matmul(x, Weight) + biases)
 # 均方误差通常用于回归问题，交叉熵用于分类问题
 # loss = tf.reduce_mean(tf.square(answer - y))
 loss = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(labels=y,logits=answer))
-train_step = tf.train.GradientDescentOptimizer(0.5).minimize(loss)
+train_step = tf.train.GradientDescentOptimizer(0.3).minimize(loss)
 
 # 初始化变量
 init = tf.global_variables_initializer()
@@ -37,7 +37,7 @@ precision = tf.reduce_mean(tf.cast(consequence, tf.float32))
 # 会话
 with tf.Session() as sess:
     sess.run(init)
-    for _ in range(30+1):
+    for _ in range(20+1):
         for batch in range(N_BATCH):
             x_s, y_s = mnist.train.next_batch(BATCH_SIZE)
             sess.run(train_step, feed_dict={x: x_s, y: y_s})
