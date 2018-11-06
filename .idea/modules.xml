@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PythonStudy/.idea/PythonStudy.iml" filepath="$PROJECT_DIR$/../PythonStudy/.idea/PythonStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tensorflow_study.iml" filepath="$PROJECT_DIR$/.idea/tensorflow_study.iml" />
     </modules>
   </component>
