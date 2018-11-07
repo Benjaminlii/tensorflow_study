@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38ad0f55-45fe-42b3-9b99-3e2d193f486a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/text_function/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_function/text_def.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_object/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_object/room_game/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_object/room_game/game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_object/room_game/room.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_object/text_class.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_object/text_extends.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_object/text_get_set.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_object/text_ploy.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Checkbutton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Radiobutton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_textvariable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonStudy/text_tkinter/fitst_try.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonStudy/text_tkinter/fitst_try.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,22 +60,31 @@
     <session id="-2028910784">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="1" />
+          <entry key="py" value="2312" />
+          <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Python" value="2312" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="3" />
+          <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="3" />
+          <entry key="Python" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -88,31 +92,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PythonStudy/have_fun/text_turtle.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/fitst_try.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+              <folding>
+                <marker date="1541569672748" expanded="true" signature="475:476" ph="..." />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/first_try.py">
+        <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/text_textvariable.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="389">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
-                <marker date="1541505450595" expanded="true" signature="87:484" ph="..." />
-                <marker date="1541505450595" expanded="true" signature="87:585" ph="..." />
+                <marker date="1541576805090" expanded="true" signature="86:91" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first_of_tensorflow/cnn_cpoy.py">
+        <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Radiobutton.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="25" column="23" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#58#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="324">
+              <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Checkbutton.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -157,13 +173,17 @@
         <option value="$PROJECT_DIR$/first_of_tensorflow/predicted_yield.py" />
         <option value="$PROJECT_DIR$/first_of_tensorflow/linear_equation.py" />
         <option value="$PROJECT_DIR$/first_of_tensorflow/text_square.py" />
+        <option value="$PROJECT_DIR$/../PythonStudy/text_tkinter/fitst_try.py" />
+        <option value="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Radiobutton.py" />
+        <option value="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Checkbutton.py" />
+        <option value="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_textvariable.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="871" />
-    <option name="width" value="1055" />
-    <option name="height" value="1039" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -197,6 +217,11 @@
             </path>
             <path>
               <item name="tensorflow_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensorflow_study" type="462c0819:PsiDirectoryNode" />
+              <item name="first_of_tensorflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensorflow_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -212,7 +237,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../PythonStudy" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -221,136 +246,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Python\PythonStudy\text_object" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/.idea/misc.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/.idea/modules.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/.idea/vcs.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/.idea/workspace.xml</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/.idea/tensorflow_study.iml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/first_of_tensorflow/MNIST_data/t10k-images-idx3-ubyte.gz</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/first_of_tensorflow/MNIST_data/t10k-labels-idx1-ubyte.gz</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/first_of_tensorflow/MNIST_data/train-images-idx3-ubyte.gz</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/first_of_tensorflow/MNIST_data/train-labels-idx1-ubyte.gz</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/first_of_tensorflow/__init__.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/first_of_tensorflow/cnn_cpoy.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/first_of_tensorflow/cnn_first.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/first_of_tensorflow/first_try.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/first_of_tensorflow/linear_equation.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/first_of_tensorflow/predicted_yield.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/first_of_tensorflow/text_constant.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/first_of_tensorflow/text_mnist.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/first_of_tensorflow/text_mnist1.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/first_of_tensorflow/text_reverse.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/first_of_tensorflow/text_square.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../PythonStudy/first_of_tensorflow/text_variable.py</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -364,8 +259,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.text_square">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+  <component name="RunManager" selected="Python.text_textvariable">
+    <configuration name="fitst_try" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -373,11 +268,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonStudy/text_tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PythonStudy/text_tkinter/fitst_try.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -386,19 +281,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="linear_equation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="tensorflow_study" />
+    <configuration name="text_Checkbutton" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_of_tensorflow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonStudy/text_tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_of_tensorflow/linear_equation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Checkbutton.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -407,40 +302,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="predicted_yield" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="tensorflow_study" />
+    <configuration name="text_Radiobutton" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_of_tensorflow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonStudy/text_tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_of_tensorflow/predicted_yield.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="text_constant" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="tensorflow_study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_of_tensorflow" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_of_tensorflow/text_constant.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Radiobutton.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -470,61 +344,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
+    <configuration name="text_textvariable" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonStudy/text_tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="PythonStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <module name="PythonStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_textvariable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.text_constant" />
-      <item itemvalue="Python.predicted_yield" />
-      <item itemvalue="Python.linear_equation" />
       <item itemvalue="Python.text_square" />
+      <item itemvalue="Python.fitst_try" />
+      <item itemvalue="Python.text_textvariable" />
+      <item itemvalue="Python.text_Radiobutton" />
+      <item itemvalue="Python.text_Checkbutton" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.text_textvariable" />
+        <item itemvalue="Python.text_Checkbutton" />
+        <item itemvalue="Python.text_Radiobutton" />
+        <item itemvalue="Python.fitst_try" />
         <item itemvalue="Python.text_square" />
-        <item itemvalue="Python.linear_equation" />
-        <item itemvalue="Python.predicted_yield" />
-        <item itemvalue="Python.text_constant" />
       </list>
     </recent_temporary>
   </component>
@@ -553,7 +407,28 @@
       <option name="project" value="LOCAL" />
       <updated>1541516462390</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="。">
+      <created>1541516570409</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1541516570409</updated>
+    </task>
+    <task id="LOCAL-00004" summary="。">
+      <created>1541516931262</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1541516931263</updated>
+    </task>
+    <task id="LOCAL-00005" summary="之前写了一个tkinter的练习代码，给弄不见了，补上一个">
+      <created>1541520272980</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1541520272981</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -569,7 +444,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21334215" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.42013422" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -578,13 +453,13 @@
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.3281471" />
-      <window_info anchor="bottom" id="Version Control" order="6" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49932885" weight="0.3323782" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49867898" weight="0.32719547" />
       <window_info anchor="bottom" id="Python Console" order="8" side_tool="true" weight="0.34412155" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.501321" side_tool="true" weight="0.32719547" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.3409742" />
       <window_info anchor="bottom" id="运行" order="10" weight="0.32956153" />
       <window_info anchor="bottom" id="调试" order="11" />
-      <window_info anchor="bottom" id="Run" order="12" weight="0.34191704" />
+      <window_info active="true" anchor="bottom" id="Run" order="12" sideWeight="0.49932885" visible="true" weight="0.33994335" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -595,14 +470,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="。" />
-    <option name="LAST_COMMIT_MESSAGE" value="。" />
+    <MESSAGE value="之前写了一个tkinter的练习代码，给弄不见了，补上一个" />
+    <option name="LAST_COMMIT_MESSAGE" value="之前写了一个tkinter的练习代码，给弄不见了，补上一个" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hello.py" />
     <entry file="file://$PROJECT_DIR$/HaveFun/TextTuetle.py" />
-    <entry file="file://$PROJECT_DIR$/have_fun/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/have_fun/__init__.py" />
     <entry file="file://$PROJECT_DIR$/text_object.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/turtle.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -611,48 +485,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/text_object/room_game/room.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text_object/room_game/game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text_object/text_get_set.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text_object/text_ploy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text_object/text_extends.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text_object/text_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/text_object/room_game/room.py" />
+    <entry file="file://$PROJECT_DIR$/text_object/room_game/game.py" />
+    <entry file="file://$PROJECT_DIR$/text_object/text_get_set.py" />
+    <entry file="file://$PROJECT_DIR$/text_object/text_ploy.py" />
+    <entry file="file://$PROJECT_DIR$/text_object/text_extends.py" />
+    <entry file="file://$PROJECT_DIR$/text_object/text_class.py" />
     <entry file="file://$PROJECT_DIR$/venv/first_of_tensorflow.py" />
     <entry file="file://$PROJECT_DIR$/first_of_tensorflow/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -682,9 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#37#60#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -706,9 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding>
-            <element signature="e#95#118#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -719,33 +551,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/text_function/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text_tkinter/first_try.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text_function/text_def.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/have_fun/text_turtle.py">
+    <entry file="file://$PROJECT_DIR$/text_function/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/text_tkinter/first_try.py" />
+    <entry file="file://$PROJECT_DIR$/text_function/text_def.py" />
+    <entry file="file://$PROJECT_DIR$/have_fun/text_turtle.py" />
+    <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/first_try.py" />
+    <entry file="file://$PROJECT_DIR$/../PythonStudy/have_fun/text_turtle.py" />
+    <entry file="file://$PROJECT_DIR$/first_of_tensorflow/cnn_cpoy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/first_try.py">
+    <entry file="file://$PROJECT_DIR$/first_of_tensorflow/cnn_first.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <folding>
+            <element signature="e#46#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/fitst_try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding>
+            <marker date="1541569672748" expanded="true" signature="475:476" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="2142" selection-start-line="2142" selection-end-line="2142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Radiobutton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Checkbutton.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/text_textvariable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
-            <marker date="1541505450595" expanded="true" signature="87:484" ph="..." />
-            <marker date="1541505450595" expanded="true" signature="87:585" ph="..." />
+            <marker date="1541576805090" expanded="true" signature="86:91" ph="..." />
           </folding>
         </state>
       </provider>
