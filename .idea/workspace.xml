@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38ad0f55-45fe-42b3-9b99-3e2d193f486a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Checkbutton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Radiobutton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_textvariable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonStudy/text_tkinter/fitst_try.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonStudy/text_tkinter/fitst_try.py" afterDir="false" />
+    <list default="true" id="38ad0f55-45fe-42b3-9b99-3e2d193f486a" name="Default Changelist" comment="。。">
+      <change beforePath="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Entry.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Entry.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,31 +57,32 @@
     <session id="-2028910784">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2312" />
-          <entry key="txt" value="15" />
+          <entry key="py" value="4522" />
+          <entry key="txt" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="15" />
-          <entry key="Python" value="2312" />
+          <entry key="PLAIN_TEXT" value="69" />
+          <entry key="Python" value="4522" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="9" />
+          <entry key="py" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="9" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.32" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.32" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -94,7 +92,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/fitst_try.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="504">
               <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
               <folding>
                 <marker date="1541569672748" expanded="true" signature="475:476" ph="..." />
@@ -104,12 +102,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/text_textvariable.py">
+        <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Entry.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="450">
+              <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
               <folding>
-                <marker date="1541576805090" expanded="true" signature="86:91" ph="..." />
+                <marker date="1541758051574" expanded="true" signature="848:850" ph="..." />
               </folding>
             </state>
           </provider>
@@ -118,7 +116,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Radiobutton.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
+            <state relative-caret-position="486">
               <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
             </state>
           </provider>
@@ -177,10 +175,11 @@
         <option value="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Radiobutton.py" />
         <option value="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Checkbutton.py" />
         <option value="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_textvariable.py" />
+        <option value="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Entry.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="952" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
@@ -211,15 +210,6 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="tensorflow_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tensorflow_study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tensorflow_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tensorflow_study" type="462c0819:PsiDirectoryNode" />
-              <item name="first_of_tensorflow" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="tensorflow_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
@@ -259,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.text_textvariable">
+  <component name="RunManager" selected="Python.text_Entry">
     <configuration name="fitst_try" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -302,6 +292,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="text_Entry" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonStudy/text_tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Entry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="text_Radiobutton" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -315,27 +326,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Radiobutton.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="text_square" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="tensorflow_study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_of_tensorflow" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_of_tensorflow/text_square.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -366,19 +356,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.text_square" />
       <item itemvalue="Python.fitst_try" />
       <item itemvalue="Python.text_textvariable" />
       <item itemvalue="Python.text_Radiobutton" />
       <item itemvalue="Python.text_Checkbutton" />
+      <item itemvalue="Python.text_Entry" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.text_Entry" />
         <item itemvalue="Python.text_textvariable" />
         <item itemvalue="Python.text_Checkbutton" />
         <item itemvalue="Python.text_Radiobutton" />
         <item itemvalue="Python.fitst_try" />
-        <item itemvalue="Python.text_square" />
       </list>
     </recent_temporary>
   </component>
@@ -428,7 +418,35 @@
       <option name="project" value="LOCAL" />
       <updated>1541520272981</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1541576987437</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1541576987437</updated>
+    </task>
+    <task id="LOCAL-00007" summary="文本变量，单选框和复选框">
+      <created>1541577037785</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1541577037785</updated>
+    </task>
+    <task id="LOCAL-00008" summary="。。">
+      <created>1541577053597</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1541577053597</updated>
+    </task>
+    <task id="LOCAL-00009" summary="写了个小的计算器，明天打算把异常处理补全">
+      <created>1541699495293</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1541699495293</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -441,10 +459,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.42013422" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.46577182" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -459,7 +477,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.3409742" />
       <window_info anchor="bottom" id="运行" order="10" weight="0.32956153" />
       <window_info anchor="bottom" id="调试" order="11" />
-      <window_info active="true" anchor="bottom" id="Run" order="12" sideWeight="0.49932885" visible="true" weight="0.33994335" />
+      <window_info active="true" anchor="bottom" id="Run" order="12" sideWeight="0.49932885" visible="true" weight="0.33954155" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -471,7 +489,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="。" />
     <MESSAGE value="之前写了一个tkinter的练习代码，给弄不见了，补上一个" />
-    <option name="LAST_COMMIT_MESSAGE" value="之前写了一个tkinter的练习代码，给弄不见了，补上一个" />
+    <MESSAGE value="update" />
+    <MESSAGE value="文本变量，单选框和复选框" />
+    <MESSAGE value="。。" />
+    <MESSAGE value="写了个小的计算器，明天打算把异常处理补全" />
+    <option name="LAST_COMMIT_MESSAGE" value="写了个小的计算器，明天打算把异常处理补全" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hello.py" />
@@ -566,16 +588,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/first_of_tensorflow/cnn_first.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <folding>
-            <element signature="e#46#69#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-1" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/text_textvariable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/fitst_try.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="504">
           <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
           <folding>
             <marker date="1541569672748" expanded="true" signature="475:476" ph="..." />
@@ -583,16 +608,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tkinter/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="2142" selection-start-line="2142" selection-end-line="2142" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Radiobutton.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
+        <state relative-caret-position="486">
           <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
         </state>
       </provider>
@@ -604,12 +622,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/text_textvariable.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tkinter/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="143">
+          <caret line="1704" selection-start-line="1704" selection-end-line="1704" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PythonStudy/text_tkinter/text_Entry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
           <folding>
-            <marker date="1541576805090" expanded="true" signature="86:91" ph="..." />
+            <marker date="1541758051574" expanded="true" signature="848:850" ph="..." />
           </folding>
         </state>
       </provider>
