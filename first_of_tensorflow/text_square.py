@@ -53,5 +53,5 @@ with tf.Session() as sess:
     """
     plt.figure()
     plt.scatter(x_data, y_data)
-    plt.plot(x_data, sess.run(answer, feed_dict={x: x_data}), "r-", lw=5)
+    plt.plot(x_data, sess.run(answer, feed_dict={x: x_data}), "r-", lw=0.5)
     plt.show()

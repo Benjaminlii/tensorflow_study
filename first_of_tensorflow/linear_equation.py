@@ -36,5 +36,5 @@ with tf.Session() as sess:
     print("Final k is %f, b is %f." % (sess.run(k), sess.run(b)))
     plt.figure()
     plt.scatter(x_data, y_data)
-    plt.plot(x_data, sess.run(y, feed_dict={x: x_data}), "r-", lw=5)
+    plt.plot(x_data, sess.run(y, feed_dict={x: x_data}), "r-", lw=0.5)
     plt.show()
